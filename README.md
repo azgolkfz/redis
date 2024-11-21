@@ -21,3 +21,6 @@ MIT
 
 ## Update from feature/merge-2319
 - Auto-generated changes
+
+## Update from feature/merge-1933
+- Auto-generated changes
