@@ -42,3 +42,6 @@ MIT
 
 ## Update from fix/merge-1486
 - Auto-generated changes
+
+## Update from feature/merge-3245
+- Auto-generated changes
