@@ -30,3 +30,6 @@ MIT
 
 ## Update from refactor/merge-9948
 - Auto-generated changes
+
+## Update from docs/merge-8992
+- Auto-generated changes
